@@ -4,6 +4,7 @@
 
 ## 已部署资源
 
+- Dapp：https://solana-paid-counter-39.vercel.app
 - Program ID：`cnnYUKJ22WztyAumbtrdmrQTW49jPtpWQA6dFnTTa13`
 - Owner：`7VioegeemsSaG1SgPxe6Ab8UDi9UcyRzPS5RGaje31oS`
 - Config PDA：`7cjocRq2uaqPdiFcWDuv8qz9hH7oVMBLnwJGmfrpcTG8`
