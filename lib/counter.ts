@@ -1,6 +1,6 @@
 import { Connection, PublicKey, SystemProgram, TransactionInstruction } from "@solana/web3.js";
 
-export const PROGRAM_ID = new PublicKey(process.env.NEXT_PUBLIC_COUNTER_PROGRAM_ID ?? "cnnYUKJ22WztyAumbtrdmrQTW49jPtpWQA6dFnTTa13");
+export const PROGRAM_ID = new PublicKey(process.env.NEXT_PUBLIC_COUNTER_PROGRAM_ID ?? "cFf5Vzhasx99wtJ3x9ivnGYYfoinwRtN6JjxyvtNJr9");
 export const RPC_URL = process.env.NEXT_PUBLIC_SOLANA_RPC_URL ?? "https://api.devnet.solana.com";
 export const OPERATION_FEE_LAMPORTS = 1_000_000;
 export const COUNTER_ACCOUNT_SIZE = 43;

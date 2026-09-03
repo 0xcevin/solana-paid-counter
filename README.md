@@ -5,11 +5,14 @@
 ## 已部署资源
 
 - Dapp：https://solana-paid-counter-39.vercel.app
-- Program ID：`cnnYUKJ22WztyAumbtrdmrQTW49jPtpWQA6dFnTTa13`
-- Owner：`7VioegeemsSaG1SgPxe6Ab8UDi9UcyRzPS5RGaje31oS`
-- Config PDA：`7cjocRq2uaqPdiFcWDuv8qz9hH7oVMBLnwJGmfrpcTG8`
-- Vault PDA：`H9Wyjuzg95fjHNqZx23F3kj1bCA7FGHZWJ3Cx8H9x5hz`
+- Program ID：`cFf5Vzhasx99wtJ3x9ivnGYYfoinwRtN6JjxyvtNJr9`
+- Owner：尚未设置（首次 `set_owner` 留给 Playground 调用）
+- Config PDA：`FYPCqnVydB2Yie4dWNQ1vHZKvRwqENsxHmmmvBeNj6nd`（尚未创建）
+- Vault PDA：`7CpzeBYMSdeHGWtEaU5cgxFp9HpZuXsjfdNUzfiNmSGK`（尚未创建）
 - Cluster：Solana devnet
+- 部署交易：`2Q6gAfGhKYos6r2RfRWmdSmV1y6o2GrTgFQCiYVR268U3ENWAgPt9ZPRZ9pmcFPRh8MsLg8jrf9jQtM4sDcRfkxz`
+
+完整接口见 `docs/ABI.md`，操作、验证与排错见 `docs/项目使用说明书.md`。
 
 ## 本地验证
 
